@@ -1,7 +1,7 @@
 public class dataFactory {
     public static void createData(){
         account customer = new account(lastName = 'client', type = 'Customer', 
-                                       firstName = 'Me', birch_lm_velocify_id__c = 121233555);
+                                       firstName = 'Me', birch_lm_velocify_id__c = 1217173);
         insert customer;
         account vendor = new account(lastName='Exchange', 
                                      firstName='Bayside', 
@@ -37,7 +37,7 @@ public class dataFactory {
                                           All_outbound_wires_inserted__c = true, 
                                           recordTypeId = buyBack, 
                                           deal_type__c = 'Cash Buyback', 
-                                          Vendor_Order__c = 'P-112135577' + i + '& motive395',
+                                          Vendor_Order__c = 'P-443' + i + '& motive395',
                                           IRA_account__c = 'R-000' + i);
             } else if(math.mod(i, 2) != 0 && i < 10) {
                 p = new purchase_order__c(custodian_lookup__c = custodian.id, 
@@ -49,7 +49,7 @@ public class dataFactory {
                                           All_outbound_wires_inserted__c = true, 
                                           recordTypeId = buyBack, 
                                           deal_type__c = 'IRA Buyback', 
-                                          Vendor_Order__c = 'P - 112135577' + i + '# $307', IRA_account__c = 'R-9685' + i);
+                                          Vendor_Order__c = 'P - 7715' + i + '# $307', IRA_account__c = 'R-9685' + i);
             }
             poLst.add(p);
         }
