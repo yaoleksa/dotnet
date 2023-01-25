@@ -3,7 +3,7 @@ global class PurchaseOrderJSONAPI {
     @HttpGet
     global static list<purchase_order__c> getPurchaseOrder(){
         date td = date.today().addDays(-5);
-        if(restContext.request.headers.get('X-API-Key') != '1e71595a-e8a3-46a5-b8ce-777968dc56b9'){
+        if(restContext.request.headers.get('X-API-Key') != 'YOUR API KEY'){
             return null;
         }
         return [select name,
