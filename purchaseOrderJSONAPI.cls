@@ -3,7 +3,7 @@ global class PurchaseOrderJSONAPI {
     @HttpGet
     global static list<purchase_order__c> getPurchaseOrder(){
         date td = date.today().addDays(-5);
-        if(restContext.request.headers.get('X-API-Key') != 'YOUR API KEY'){
+        if(restContext.request.headers.get('X-API-Key') != '1e71595a-e8a3-46a5-b8ce-777968dc56b9'){
             return null;
         }
         return [select name,
@@ -17,7 +17,8 @@ global class PurchaseOrderJSONAPI {
                        Total_Price_Formula__c,
                        BG_Total_Cost__c,
                        vendor__r.name,
-                       Vendor_Order_Number__c
+                       Vendor_Order_Number__c, 
+                       Promo_coin__c
                        from Purchase_Order_Line_Items__r),
                        (select id, 
                         client__r.Name,
@@ -44,8 +45,11 @@ global class PurchaseOrderJSONAPI {
                             recordType.name = 'Buy Back') and 
                       deal_type__c != null and
                      client__r.name != null and
+                	  Promo_Coin_Shipping_Loction__c = 'Home Address' and
                       All_payments_inserted__c = true
                       and Manager_Review_Started_On__c >= :td and
+                		date_cleared__c >= :td and
+                		date_cleared__c != null and
                 		manager_review_started_on__c != null and
                      (deal_type__c like '%IRA%' or 
                       deal_type__c like '%Cash%')];

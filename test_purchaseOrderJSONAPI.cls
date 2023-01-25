@@ -16,8 +16,8 @@ public class Test_PurchaseOrderJSONAPI {
     public static void testGetPurchaseOrder(){
         RestRequest req = new RestRequest();
         RestResponse res = new RestResponse();
-        req.requestURI = 'YOUR ORG INSTANCE' + 
-            'PATH TO API';
+        req.requestURI = 'https://ccdevs-birchgoldgroup.cs66.force.com' + 
+            '/webconnector/services/apexrest/pojson';
         req.httpMethod = 'GET';
         RestContext.request = req;
         RestContext.response = res;
@@ -29,8 +29,8 @@ public class Test_PurchaseOrderJSONAPI {
     public static void testPostRequest(){
         RestRequest req = new restRequest();
         RestResponse res = new RestResponse();
-        req.requestURI = 'YOUR ORG INSTANCE' + 
-            'PATH TO API';
+        req.requestURI = 'https://ccdevs-birchgoldgroup.cs66.force.com' + 
+            '/webconnector/services/apexrest/pojson';
         req.httpMethod = 'POST';
         RestContext.request = req;
         RestContext.response = res;
