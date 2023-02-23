@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "77ZT+odiyHXbc0D0Hz7gRZOqx9WnnrAX6AD8VFKXHX/+aNZ5AI8ded5Y1orrg3wTAjxQ/Ec2hnbnDtPCAsdJeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OleksiiYaremchuk\\source\\repos\\Json Production\\APIGetsSFData\\APIGetsSFData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\interop.qbfc15\\1.0.1\\interop.qbfc15.1.0.1.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\OleksiiYaremchuk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Interop.QBFC15 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Interop.QBFC15",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\APIGetsSFData\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\NewApiProduction\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy323\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy293\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy284\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\appsettings.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.exe
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.deps.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.runtimeconfig.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\Interop.QBFC15.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.AssemblyReference.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfoInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.AssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CoreCompileInputs.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\scopedcss\bundle\APIGetsSFData.styles.css
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.csproj.CopyComplete
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\refint\APIGetsSFData.dll
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.pdb
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\APIGetsSFData.genruntimeconfig.cache
+C:\Users\OleksiiYaremchuk\source\repos\Copies\copy283\Json Production\APIGetsSFData\obj\Debug\net6.0\ref\APIGetsSFData.dll
