@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zhvEmOgwyMI5dDLmXl4hAvjUtA7xCEFnFtviz4mt9LY=",
+  "Source": "APIGetsSFData",
+  "BasePath": "_content/APIGetsSFData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
