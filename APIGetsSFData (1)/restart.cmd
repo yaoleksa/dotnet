@@ -1,0 +1,1 @@
+curl -X GET https://localhost:7000/SFData/
